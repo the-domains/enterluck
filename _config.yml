@@ -1,0 +1,28 @@
+name: EnterLuck
+favicon: null
+layout_spectrum: 0.7624351868871599
+typography_spectrum: 0.7697841823101044
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#1fca69'
+    - '#1e1e1e'
+    - '#949494'
+    - '#555555'
+  brandStrength: 0.3125
+  lightness: 0.20137166371569037
+  saturation: 0.7271300812717527
+  rhythmicContrast: 0.8491848115809262
+purpose: []
