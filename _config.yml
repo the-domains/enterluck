@@ -1,6 +1,6 @@
 name: EnterLuck
 favicon: null
-layout_spectrum: 0.23531
+layout_spectrum: 0.61636
 typography_spectrum: 0.5004
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#949494'
     - '#555555'
   brandStrength: 0.75
-  lightness: 0.20137166371569037
+  lightness: 0.125
   saturation: 0.7271300812717527
   rhythmicContrast: 0.8491848115809262
 purpose: []
